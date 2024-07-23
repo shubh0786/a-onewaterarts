@@ -240,7 +240,7 @@ section{
 }
 /* video */
 .video{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(../assets/video-bg.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(../assets/Screenshot\ 2024-07-23\ at\ 2.29.18\ PM.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -278,7 +278,8 @@ section{
     margin: 2rem 0;
 }
 .team-img{
-    position: relative;
+    position:static;
+  
 }
 .team-icons{
     position: absolute;
